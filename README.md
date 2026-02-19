@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Nikhil
+- 👋 Hi, I’m Nik
 - 👀 I’m interested in Computers
-- 🌱 I’m currently learning Computer Security 
-- 💞️ I’m looking to collaborate on Nothing for now
+- 🌱 I’m currently learning. 
+- 💞️ I’m looking to collaborate on Nothing as of now...
 - 📫 How to reach me guess we will find out..
 
 <!---
